@@ -7,7 +7,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <h1>
-      <marquee direction="right">Gatsby run on Now 2.0</marquee>
+      <marquee direction="right">Gatsby run on Now 2.0 :-)</marquee>
     </h1>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
